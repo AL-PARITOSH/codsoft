@@ -4,13 +4,16 @@
 and organize their tasks efficiently. This project aims to create a
 command-line or GUI-based application using Python, allowing
 users to create, update, and track their to-do lists.
+
 2-Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result.
+
 3-A password generator is a useful tool that generates strong and
 random passwords for users. This project aims to create a
 password generator application using Python, allowing users to
 specify the length and complexity of the password.
+
 4-Rock-Paper-Scissors Game:
 User Input: Prompt the user to choose rock, paper, or scissors.
 Computer Selection: Generate a random choice (rock, paper, or scissors) for
@@ -25,6 +28,7 @@ multiple rounds.
 Play Again: Ask the user if they want to play another round.
 User Interface: Design a user-friendly interface with clear instructions and
 feedback.
+
 5-Contact Book:
 Contact Information: Store name, phone number, email, and address for each contact.
 Add Contact: Allow users to add new contacts with their details.
